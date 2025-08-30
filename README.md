@@ -22,4 +22,5 @@ The data cleaning and preprocessing workflow is detailed step-by-step in the `No
 1.  Clone this repository to your local machine.
 2.  Navigate to the `notebook/` directory and open `Notebook.ipynb` to view the full data cleaning process.
 
-3.  The `data/processed/` directory contains the final cleaned dataset, `HR-Employee-Attrition-Cleaned.csv`, ready for use in any data analysis or visualization project.
+3.  The `ProcessedData/` directory contains the final cleaned dataset, `HR-Employee-Attrition-Cleaned.csv`, ready for use in any data analysis or visualization project.
+
