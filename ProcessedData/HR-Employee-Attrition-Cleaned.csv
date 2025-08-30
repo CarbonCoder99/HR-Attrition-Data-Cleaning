@@ -1,0 +1,1023 @@
+age,attrition,business_travel,daily_rate,department,distance_from_home,education,hourly_rate,job_role,years_at_company,years_in_current_role,years_since_last_promotion,years_with_curr_manager
+41,True,travel rarely,1102,Sales,1,2,94,Sales Executive,6,4,0,5
+37,True,travel rarely,1373,Research & Development,2,2,92,Laboratory Technician,0,0,0,0
+33,False,travel frequently,1392,Research & Development,3,4,56,Research Scientist,8,7,3,0
+27,False,travel rarely,591,Research & Development,2,1,40,Laboratory Technician,2,2,2,2
+32,False,travel frequently,1005,Research & Development,2,2,79,Laboratory Technician,7,7,3,6
+59,False,travel rarely,1324,Research & Development,3,3,81,Laboratory Technician,1,0,0,0
+30,False,travel rarely,1358,Research & Development,24,1,67,Laboratory Technician,1,0,0,0
+36,False,travel rarely,1299,Research & Development,27,3,94,Healthcare Representative,7,7,7,7
+35,False,travel rarely,809,Research & Development,16,3,84,Laboratory Technician,5,4,0,3
+31,False,travel rarely,670,Research & Development,26,1,31,Research Scientist,5,2,4,3
+34,False,travel rarely,1346,Research & Development,19,2,93,Laboratory Technician,2,2,1,2
+28,True,travel rarely,103,Research & Development,24,3,50,Laboratory Technician,4,2,0,3
+32,False,travel rarely,334,Research & Development,5,2,80,Research Scientist,6,2,0,5
+22,False,non-travel,1123,Research & Development,16,2,96,Laboratory Technician,1,0,0,0
+38,False,travel rarely,371,Research & Development,2,3,45,Research Scientist,3,2,1,2
+24,False,non-travel,673,Research & Development,11,2,96,Manufacturing Director,4,2,1,3
+36,True,travel rarely,1218,Sales,9,4,82,Sales Representative,5,3,0,3
+21,False,travel rarely,391,Research & Development,15,2,96,Research Scientist,0,0,0,0
+34,True,travel rarely,699,Research & Development,6,1,83,Research Scientist,4,2,1,3
+46,False,travel rarely,705,Sales,2,4,83,Manager,2,2,2,1
+33,False,travel rarely,924,Research & Development,2,3,78,Laboratory Technician,1,1,0,0
+44,False,travel rarely,1459,Research & Development,10,4,41,Healthcare Representative,4,2,1,3
+39,True,travel rarely,895,Sales,5,3,56,Sales Representative,1,0,0,0
+24,True,travel rarely,813,Research & Development,1,3,61,Research Scientist,2,0,2,0
+43,False,travel rarely,1273,Research & Development,2,2,72,Research Scientist,5,3,1,4
+50,True,travel rarely,869,Sales,3,2,86,Sales Representative,3,2,0,2
+35,False,travel rarely,890,Sales,2,3,97,Sales Representative,2,2,2,2
+36,False,travel rarely,852,Research & Development,5,4,82,Research Scientist,1,1,0,0
+33,False,travel frequently,1141,Sales,1,3,42,Sales Executive,5,3,1,3
+35,False,travel rarely,464,Research & Development,4,2,75,Laboratory Technician,1,0,0,0
+27,False,travel rarely,1240,Research & Development,2,4,33,Laboratory Technician,1,0,0,0
+26,True,travel rarely,1357,Research & Development,25,3,48,Laboratory Technician,1,0,0,1
+37,False,travel rarely,408,Research & Development,19,2,73,Research Scientist,1,0,0,0
+35,False,travel rarely,1229,Research & Development,8,1,36,Laboratory Technician,1,0,0,1
+48,True,travel rarely,626,Research & Development,1,2,98,Laboratory Technician,1,0,0,0
+28,True,travel rarely,1434,Research & Development,5,4,50,Laboratory Technician,2,2,2,2
+44,False,travel rarely,1488,Sales,1,5,75,Sales Executive,4,3,1,3
+35,False,non-travel,1097,Research & Development,11,2,79,Healthcare Representative,4,0,2,3
+26,False,travel rarely,1443,Sales,23,3,47,Sales Executive,2,2,0,0
+35,False,travel rarely,1142,Research & Development,23,4,30,Laboratory Technician,2,2,2,2
+31,False,travel rarely,655,Research & Development,7,4,48,Laboratory Technician,7,7,1,7
+37,False,travel rarely,1115,Research & Development,1,4,51,Manufacturing Director,7,5,0,7
+55,False,travel rarely,836,Research & Development,8,3,33,Manager,5,0,0,2
+36,False,travel frequently,1195,Research & Development,11,3,95,Manufacturing Director,6,5,0,3
+45,False,travel rarely,1339,Research & Development,7,3,59,Research Scientist,1,0,0,0
+35,False,travel frequently,664,Research & Development,1,3,79,Research Scientist,3,2,1,2
+36,True,travel rarely,318,Research & Development,9,3,79,Research Scientist,1,0,0,0
+59,False,travel frequently,1225,Sales,1,1,57,Sales Executive,4,3,1,3
+29,False,travel rarely,1328,Research & Development,2,3,76,Research Scientist,5,4,0,4
+31,False,travel rarely,1082,Research & Development,1,4,87,Research Scientist,1,1,1,0
+36,False,travel rarely,132,Research & Development,6,3,55,Laboratory Technician,1,0,0,0
+45,False,travel rarely,193,Research & Development,6,4,52,Research Director,0,0,0,0
+37,False,travel rarely,397,Research & Development,7,4,30,Research Director,5,2,0,2
+46,False,travel rarely,945,Human Resources,5,2,80,Human Resources,4,2,0,2
+35,False,travel rarely,1214,Research & Development,1,3,30,Research Scientist,6,4,0,4
+55,False,travel rarely,111,Sales,1,2,70,Sales Executive,1,0,1,0
+34,False,travel rarely,1153,Research & Development,1,2,94,Manufacturing Director,5,2,1,3
+56,False,travel rarely,1400,Research & Development,7,3,49,Manufacturing Director,6,4,0,2
+23,False,travel rarely,541,Sales,2,1,62,Sales Representative,0,0,0,0
+51,False,travel rarely,432,Research & Development,9,4,96,Laboratory Technician,4,2,0,3
+54,False,travel rarely,1217,Research & Development,2,4,60,Research Director,4,3,0,3
+24,False,travel rarely,1353,Sales,3,2,33,Sales Executive,3,2,0,2
+28,False,non-travel,120,Sales,4,3,43,Sales Executive,5,4,0,4
+44,False,non-travel,489,Research & Development,23,3,67,Laboratory Technician,3,2,1,2
+37,True,travel rarely,807,Human Resources,6,4,63,Human Resources,3,2,0,2
+32,False,travel rarely,827,Research & Development,1,1,71,Research Scientist,1,0,0,0
+20,True,travel frequently,871,Research & Development,6,3,66,Laboratory Technician,1,0,1,0
+37,False,non-travel,1040,Research & Development,2,2,100,Healthcare Representative,1,0,0,0
+59,False,non-travel,1420,Human Resources,2,4,32,Manager,3,2,2,2
+50,False,travel frequently,1115,Research & Development,1,3,73,Research Director,8,3,0,7
+25,True,travel rarely,240,Sales,5,3,46,Sales Executive,6,4,0,3
+25,False,travel rarely,1280,Research & Development,7,1,64,Research Scientist,2,2,2,1
+22,False,travel rarely,534,Research & Development,15,3,59,Laboratory Technician,0,0,0,0
+54,False,non-travel,142,Human Resources,26,3,30,Manager,5,3,4,4
+24,False,travel rarely,1127,Research & Development,18,1,52,Laboratory Technician,5,3,1,2
+34,False,travel rarely,1031,Research & Development,6,4,45,Research Scientist,1,0,0,0
+37,False,travel rarely,1189,Sales,3,3,87,Sales Executive,5,3,1,3
+36,False,travel rarely,922,Research & Development,3,2,39,Laboratory Technician,1,0,0,0
+33,False,non-travel,750,Sales,22,2,95,Sales Executive,7,7,0,7
+56,True,travel rarely,441,Research & Development,14,4,72,Research Scientist,5,4,4,3
+31,True,travel rarely,249,Sales,6,4,76,Sales Executive,7,7,7,7
+26,False,travel rarely,841,Research & Development,6,3,46,Research Scientist,5,4,4,3
+19,True,travel rarely,528,Sales,22,1,50,Sales Representative,0,0,0,0
+22,False,travel rarely,594,Research & Development,2,1,100,Laboratory Technician,2,1,2,1
+43,False,travel frequently,957,Research & Development,28,3,72,Research Scientist,3,2,1,2
+50,False,travel frequently,809,Sales,12,3,77,Sales Executive,2,2,2,1
+31,True,travel rarely,542,Sales,20,3,71,Sales Executive,2,2,2,2
+26,False,travel rarely,1355,Human Resources,25,1,61,Human Resources,8,7,5,7
+36,False,travel rarely,216,Research & Development,6,2,84,Manufacturing Director,3,2,0,1
+51,True,travel frequently,1150,Research & Development,8,4,53,Manufacturing Director,4,2,0,3
+25,False,travel rarely,959,Sales,28,3,41,Sales Executive,2,2,2,2
+32,True,travel rarely,1033,Research & Development,9,3,41,Laboratory Technician,5,4,0,4
+45,False,travel rarely,1316,Research & Development,29,3,83,Research Scientist,6,5,0,3
+38,False,travel rarely,364,Research & Development,3,5,32,Research Scientist,3,2,2,2
+30,False,travel rarely,438,Research & Development,18,3,75,Research Scientist,5,4,0,4
+32,False,travel frequently,689,Sales,9,2,35,Sales Executive,8,7,0,7
+30,False,travel rarely,201,Research & Development,5,3,84,Research Scientist,3,2,2,2
+30,False,travel rarely,1427,Research & Development,2,1,35,Laboratory Technician,5,3,1,2
+41,False,travel frequently,857,Research & Development,10,3,91,Manager,7,6,7,7
+41,False,travel rarely,933,Research & Development,9,4,94,Laboratory Technician,5,0,1,4
+19,False,travel rarely,1181,Research & Development,3,1,79,Laboratory Technician,1,0,0,0
+53,False,travel rarely,1436,Sales,6,2,34,Sales Representative,7,7,4,5
+51,False,travel rarely,1169,Research & Development,7,4,34,Manufacturing Director,1,0,0,0
+58,False,travel rarely,1145,Research & Development,9,3,75,Research Scientist,1,0,0,0
+34,False,travel frequently,303,Sales,2,4,75,Sales Representative,4,3,1,2
+22,False,travel rarely,1256,Research & Development,19,1,80,Research Scientist,2,2,2,2
+27,False,non-travel,691,Research & Development,9,3,57,Research Scientist,2,2,2,2
+28,False,travel rarely,440,Research & Development,21,3,42,Research Scientist,5,2,0,2
+57,False,travel rarely,334,Research & Development,24,2,83,Healthcare Representative,5,3,1,4
+27,False,non-travel,1450,Research & Development,3,3,79,Research Scientist,1,1,0,1
+50,False,travel rarely,1452,Research & Development,11,3,53,Manager,5,4,4,4
+38,False,travel rarely,702,Sales,1,4,59,Sales Executive,8,3,0,7
+32,False,travel rarely,120,Research & Development,6,5,43,Research Scientist,5,4,1,4
+27,False,travel rarely,1157,Research & Development,17,3,51,Research Scientist,5,2,1,1
+19,True,travel frequently,602,Sales,1,1,100,Sales Representative,0,0,0,0
+36,False,travel frequently,1480,Research & Development,3,2,30,Laboratory Technician,8,7,7,2
+45,False,travel rarely,1268,Sales,4,2,30,Sales Executive,5,4,0,3
+56,False,travel rarely,713,Research & Development,8,3,67,Research Scientist,2,2,2,2
+33,False,travel rarely,134,Research & Development,2,3,90,Research Scientist,3,1,0,2
+19,True,travel rarely,303,Research & Development,2,3,47,Laboratory Technician,1,0,1,0
+38,False,travel rarely,1380,Research & Development,9,2,75,Laboratory Technician,2,2,2,1
+31,False,travel rarely,140,Research & Development,12,1,95,Research Scientist,4,2,0,2
+34,False,travel rarely,629,Research & Development,27,2,95,Research Scientist,3,2,1,2
+41,True,travel rarely,1356,Sales,20,2,70,Sales Representative,4,3,0,2
+50,False,travel rarely,328,Research & Development,1,3,86,Laboratory Technician,3,2,0,2
+53,False,travel rarely,1084,Research & Development,13,2,57,Manufacturing Director,4,2,1,3
+33,False,travel rarely,931,Research & Development,14,3,72,Research Scientist,8,7,1,6
+51,False,travel rarely,313,Research & Development,3,3,98,Healthcare Representative,7,7,1,0
+27,False,travel rarely,894,Research & Development,9,3,99,Research Scientist,7,7,0,3
+35,True,travel rarely,556,Research & Development,23,2,50,Manufacturing Director,1,0,0,1
+43,False,non-travel,1344,Research & Development,7,3,37,Research Scientist,5,4,2,2
+37,False,travel rarely,290,Research & Development,21,3,65,Research Scientist,8,7,1,7
+35,False,travel frequently,138,Research & Development,2,3,37,Laboratory Technician,6,2,1,2
+42,False,non-travel,926,Research & Development,21,2,36,Manufacturing Director,5,3,0,2
+38,False,travel rarely,1261,Research & Development,2,4,88,Manufacturing Director,1,0,0,0
+38,False,travel rarely,1084,Research & Development,29,3,54,Manufacturing Director,7,7,1,7
+27,False,travel frequently,472,Research & Development,1,1,60,Manufacturing Director,2,2,2,0
+49,False,non-travel,1002,Research & Development,18,4,92,Manufacturing Director,7,7,1,7
+34,False,travel frequently,878,Research & Development,10,4,43,Research Scientist,5,3,2,0
+40,False,travel rarely,905,Research & Development,19,2,99,Laboratory Technician,7,2,3,7
+38,True,travel rarely,1180,Research & Development,29,1,70,Healthcare Representative,1,0,0,0
+22,False,travel rarely,1136,Research & Development,5,3,60,Research Scientist,4,2,2,2
+36,False,travel frequently,635,Research & Development,18,1,73,Laboratory Technician,8,1,1,7
+40,False,non-travel,1151,Research & Development,9,5,63,Healthcare Representative,3,2,0,2
+46,False,travel rarely,644,Research & Development,1,4,97,Healthcare Representative,4,2,0,3
+27,False,travel frequently,1242,Sales,20,3,90,Sales Executive,7,7,0,7
+30,True,travel rarely,1005,Research & Development,3,3,88,Research Scientist,5,2,0,4
+41,False,travel rarely,896,Sales,6,3,75,Manager,1,0,0,0
+30,True,travel frequently,334,Sales,26,4,52,Sales Executive,6,3,0,1
+29,True,travel rarely,992,Research & Development,1,3,85,Research Scientist,6,2,1,5
+54,False,travel rarely,1147,Sales,3,3,52,Sales Executive,6,2,0,5
+33,False,travel rarely,147,Research & Development,4,4,47,Research Scientist,3,2,1,1
+31,False,non-travel,979,Research & Development,1,4,90,Manufacturing Director,5,4,1,4
+59,False,travel rarely,142,Research & Development,3,3,70,Research Scientist,1,0,0,0
+29,True,travel rarely,896,Research & Development,18,1,86,Research Scientist,4,3,0,1
+52,False,travel rarely,1323,Research & Development,2,3,89,Laboratory Technician,2,2,2,2
+59,False,travel rarely,818,Human Resources,6,2,52,Human Resources,2,2,2,2
+50,False,travel rarely,854,Sales,1,4,68,Manager,7,0,0,6
+33,True,travel rarely,813,Research & Development,14,3,58,Laboratory Technician,5,4,0,4
+32,False,travel rarely,1401,Sales,4,2,56,Sales Representative,4,3,1,2
+32,True,travel rarely,515,Research & Development,1,3,62,Laboratory Technician,3,2,1,2
+39,False,travel rarely,1431,Research & Development,1,4,96,Laboratory Technician,3,2,1,2
+32,False,non-travel,976,Sales,26,4,100,Sales Executive,3,2,2,2
+41,False,travel rarely,1411,Research & Development,19,2,36,Research Scientist,1,0,0,0
+31,False,travel frequently,1327,Research & Development,3,4,73,Research Director,2,2,2,2
+33,False,travel rarely,832,Research & Development,5,4,63,Research Scientist,2,2,0,2
+37,False,travel rarely,1017,Research & Development,1,2,83,Research Scientist,3,1,0,2
+45,False,travel frequently,1199,Research & Development,7,4,77,Manufacturing Director,3,2,0,2
+37,True,travel frequently,504,Research & Development,10,3,61,Manufacturing Director,1,0,0,0
+29,False,travel rarely,665,Research & Development,15,3,60,Research Scientist,6,5,1,5
+42,False,travel rarely,916,Research & Development,17,2,82,Research Scientist,3,2,0,2
+29,False,travel rarely,1247,Sales,20,2,45,Sales Executive,3,2,0,2
+25,False,travel rarely,685,Research & Development,1,3,62,Manufacturing Director,4,2,1,2
+51,False,travel rarely,833,Research & Development,1,3,96,Research Scientist,1,0,0,0
+31,True,travel frequently,307,Research & Development,29,2,71,Laboratory Technician,5,4,1,4
+32,False,travel frequently,1311,Research & Development,7,3,100,Laboratory Technician,5,1,0,3
+38,False,non-travel,1327,Sales,2,2,39,Sales Executive,8,7,7,5
+32,False,travel rarely,128,Research & Development,2,1,84,Laboratory Technician,6,2,0,4
+46,False,travel rarely,488,Sales,2,3,75,Manager,7,7,7,7
+28,True,travel rarely,529,Research & Development,2,4,79,Laboratory Technician,0,0,0,0
+29,False,travel rarely,1210,Sales,2,3,78,Sales Executive,0,0,0,0
+25,False,non-travel,675,Research & Development,5,2,85,Healthcare Representative,6,3,1,5
+28,False,travel rarely,1158,Research & Development,9,3,94,Research Scientist,5,2,0,4
+37,False,travel rarely,228,Sales,6,4,98,Sales Executive,5,4,0,1
+21,False,travel rarely,996,Research & Development,3,2,100,Research Scientist,3,2,1,0
+37,False,non-travel,728,Research & Development,1,4,80,Research Director,5,2,0,2
+35,False,travel rarely,1315,Research & Development,22,3,71,Manager,7,7,6,2
+38,False,travel rarely,322,Sales,7,2,44,Sales Executive,8,0,7,7
+26,False,travel frequently,1479,Research & Development,1,3,84,Manufacturing Director,6,5,1,4
+53,False,travel rarely,1070,Research & Development,3,4,45,Research Director,5,3,1,3
+26,False,travel frequently,496,Research & Development,11,2,60,Healthcare Representative,5,3,3,3
+44,True,travel frequently,920,Research & Development,24,3,43,Laboratory Technician,1,0,0,0
+38,False,travel rarely,688,Research & Development,23,4,82,Healthcare Representative,2,2,1,2
+26,True,travel rarely,1449,Research & Development,16,4,45,Laboratory Technician,3,2,0,2
+28,False,travel rarely,1117,Research & Development,8,2,66,Research Scientist,5,3,0,2
+49,False,travel frequently,636,Research & Development,10,4,35,Research Director,3,2,1,2
+36,False,travel rarely,506,Research & Development,3,3,30,Research Scientist,8,0,7,7
+31,False,travel frequently,444,Sales,5,3,84,Sales Representative,2,2,2,2
+26,True,travel rarely,950,Sales,4,4,48,Sales Executive,8,7,7,4
+37,False,travel frequently,889,Research & Development,9,3,53,Research Scientist,4,2,1,2
+18,True,travel rarely,230,Research & Development,3,3,54,Laboratory Technician,0,0,0,0
+36,False,travel frequently,566,Research & Development,18,4,81,Laboratory Technician,1,0,0,0
+51,False,travel rarely,1302,Research & Development,2,3,84,Manufacturing Director,4,1,1,2
+18,False,travel rarely,812,Sales,10,3,69,Sales Representative,0,0,0,0
+28,False,travel rarely,1476,Research & Development,16,2,68,Healthcare Representative,8,3,0,7
+31,False,travel rarely,218,Sales,7,3,100,Sales Executive,8,7,7,7
+58,False,non-travel,390,Research & Development,1,4,32,Healthcare Representative,5,3,1,2
+31,False,travel rarely,691,Research & Development,5,4,86,Research Scientist,5,2,0,3
+31,False,travel rarely,106,Human Resources,2,3,62,Human Resources,2,2,1,0
+31,False,travel rarely,192,Research & Development,2,4,32,Research Scientist,2,2,2,2
+43,False,travel frequently,185,Research & Development,10,4,33,Laboratory Technician,8,7,1,7
+49,False,travel rarely,1091,Research & Development,1,2,90,Healthcare Representative,7,1,0,7
+52,True,travel rarely,723,Research & Development,8,4,85,Research Scientist,8,2,7,7
+27,False,travel rarely,1220,Research & Development,5,3,85,Research Scientist,4,3,1,2
+27,False,travel rarely,1377,Sales,2,3,74,Sales Executive,5,4,0,4
+31,False,travel rarely,691,Sales,7,3,73,Sales Executive,7,7,1,7
+32,False,travel rarely,1018,Research & Development,2,4,74,Research Scientist,7,7,0,7
+28,True,travel rarely,1157,Research & Development,2,4,84,Research Scientist,3,2,2,2
+39,True,travel rarely,1162,Sales,3,2,41,Sales Executive,1,0,0,0
+33,False,travel frequently,508,Sales,10,3,46,Sales Executive,7,7,0,1
+47,False,travel rarely,1482,Research & Development,5,5,42,Research Director,3,2,1,1
+27,False,non-travel,210,Sales,1,1,73,Sales Executive,5,4,1,4
+54,False,travel frequently,928,Research & Development,20,4,31,Research Scientist,4,3,0,3
+43,False,travel rarely,1001,Research & Development,7,3,43,Healthcare Representative,1,0,0,0
+40,False,travel rarely,1124,Sales,1,2,57,Sales Executive,4,3,0,2
+29,True,travel rarely,318,Research & Development,8,4,77,Laboratory Technician,7,7,0,7
+29,False,travel rarely,738,Research & Development,9,5,30,Laboratory Technician,3,2,2,2
+27,False,travel rarely,1130,Sales,8,4,56,Sales Executive,8,7,0,7
+37,False,travel rarely,1192,Research & Development,5,2,61,Manufacturing Director,6,2,0,4
+29,False,travel rarely,144,Sales,10,1,39,Sales Executive,7,7,1,7
+23,False,travel rarely,1309,Research & Development,26,1,83,Research Scientist,4,2,0,2
+41,False,travel rarely,483,Research & Development,6,3,95,Manufacturing Director,5,4,1,2
+47,False,travel frequently,1309,Sales,4,1,99,Sales Representative,0,0,0,0
+42,False,travel rarely,810,Research & Development,23,5,44,Research Director,1,0,0,0
+29,False,non-travel,746,Sales,2,3,61,Sales Executive,4,3,0,2
+42,False,travel rarely,544,Human Resources,2,1,52,Human Resources,3,2,1,0
+32,False,travel rarely,1062,Research & Development,2,3,75,Laboratory Technician,8,0,0,7
+48,False,travel rarely,530,Sales,29,1,91,Manager,0,0,0,0
+37,False,travel rarely,1319,Research & Development,6,3,51,Research Scientist,7,7,6,7
+30,False,non-travel,641,Sales,25,2,85,Sales Executive,2,2,2,2
+26,False,travel rarely,933,Sales,1,3,57,Sales Executive,8,7,7,7
+42,False,travel rarely,1332,Research & Development,2,4,98,Healthcare Representative,1,0,0,0
+21,True,travel frequently,756,Sales,1,1,99,Sales Representative,3,2,1,2
+36,False,non-travel,845,Sales,1,5,45,Sales Executive,1,0,0,0
+57,False,travel rarely,593,Research & Development,1,4,88,Healthcare Representative,3,2,1,2
+40,False,travel rarely,1171,Research & Development,10,4,46,Laboratory Technician,7,7,1,7
+21,False,non-travel,895,Sales,9,2,39,Sales Representative,3,2,2,2
+33,True,travel rarely,350,Sales,5,3,34,Sales Representative,1,0,0,0
+37,False,travel rarely,921,Research & Development,10,3,98,Laboratory Technician,5,4,0,3
+46,False,non-travel,1144,Research & Development,7,4,30,Manufacturing Director,1,0,0,0
+41,True,travel frequently,143,Sales,4,3,56,Sales Executive,8,7,7,7
+50,False,travel rarely,1046,Research & Development,10,3,100,Healthcare Representative,4,3,1,3
+40,True,travel rarely,575,Sales,22,2,68,Sales Executive,6,4,1,0
+31,False,travel rarely,408,Research & Development,9,4,42,Research Scientist,2,2,2,2
+21,True,travel rarely,156,Sales,12,3,90,Sales Representative,1,0,0,0
+29,False,travel rarely,1283,Research & Development,23,3,54,Research Scientist,3,2,1,2
+35,False,travel rarely,755,Research & Development,9,4,97,Healthcare Representative,1,1,0,0
+27,False,travel rarely,1469,Research & Development,1,2,82,Laboratory Technician,5,2,0,4
+28,False,travel rarely,304,Sales,9,4,92,Sales Executive,7,5,0,7
+49,False,travel rarely,1261,Research & Development,7,3,31,Healthcare Representative,5,2,0,0
+51,False,travel rarely,1178,Sales,14,2,87,Sales Executive,7,7,0,7
+36,False,travel rarely,329,Research & Development,2,3,96,Research Scientist,2,2,2,2
+34,True,non-travel,1362,Sales,19,3,67,Sales Executive,5,2,0,4
+55,False,travel rarely,1311,Research & Development,2,3,97,Manager,5,4,1,2
+24,False,travel rarely,1371,Sales,10,4,77,Sales Executive,5,2,0,3
+30,False,travel rarely,202,Sales,2,1,72,Sales Representative,1,0,0,0
+26,True,travel frequently,575,Research & Development,3,1,73,Research Scientist,6,4,0,4
+22,False,travel rarely,253,Research & Development,11,3,43,Research Scientist,2,1,1,2
+30,True,travel frequently,464,Research & Development,4,3,40,Research Scientist,1,0,0,0
+40,False,travel rarely,759,Sales,2,2,46,Sales Executive,5,4,1,3
+42,False,travel rarely,201,Research & Development,1,4,95,Laboratory Technician,5,2,1,2
+37,False,travel rarely,1305,Research & Development,10,4,49,Manufacturing Director,1,0,0,1
+40,False,travel rarely,555,Research & Development,2,3,78,Laboratory Technician,1,0,0,0
+54,False,travel rarely,821,Research & Development,5,2,86,Research Director,4,2,1,2
+34,False,non-travel,1381,Sales,4,4,72,Sales Executive,3,2,1,2
+43,False,travel frequently,313,Research & Development,21,3,61,Laboratory Technician,3,2,1,2
+43,False,travel rarely,1473,Research & Development,8,4,74,Healthcare Representative,5,2,0,2
+25,False,travel rarely,891,Sales,4,2,99,Sales Executive,5,4,1,3
+31,False,travel rarely,329,Research & Development,1,2,98,Laboratory Technician,4,2,3,2
+56,False,travel frequently,906,Sales,6,3,86,Sales Executive,7,7,7,7
+30,False,travel rarely,1082,Sales,12,3,83,Sales Executive,5,4,4,4
+25,True,travel rarely,688,Research & Development,3,3,91,Laboratory Technician,2,2,0,2
+52,False,travel rarely,319,Research & Development,3,3,39,Manufacturing Director,5,4,0,4
+45,False,travel rarely,192,Research & Development,10,2,69,Research Scientist,2,2,0,2
+52,False,travel rarely,1490,Research & Development,4,2,30,Manager,5,2,1,4
+42,False,travel frequently,532,Research & Development,29,2,92,Research Scientist,5,4,0,2
+30,False,travel rarely,317,Research & Development,2,3,43,Manufacturing Director,5,4,0,2
+42,False,travel frequently,1368,Research & Development,28,4,88,Healthcare Representative,6,5,0,4
+24,True,travel rarely,1448,Sales,1,1,62,Sales Representative,5,3,1,4
+34,True,travel frequently,296,Sales,6,2,33,Sales Representative,2,2,1,0
+38,False,travel frequently,1490,Research & Development,2,2,42,Laboratory Technician,1,0,0,0
+26,False,travel rarely,1349,Research & Development,23,3,90,Research Scientist,3,2,0,2
+30,False,non-travel,1400,Research & Development,3,3,53,Laboratory Technician,5,3,1,4
+29,True,travel rarely,408,Research & Development,25,5,71,Research Scientist,2,2,1,1
+19,True,travel rarely,489,Human Resources,2,2,52,Human Resources,1,0,0,0
+57,False,travel rarely,210,Sales,29,3,56,Manager,1,0,0,0
+47,False,travel rarely,983,Research & Development,2,2,65,Manufacturing Director,5,0,0,4
+46,False,travel rarely,1009,Research & Development,2,3,51,Research Director,3,2,0,1
+35,False,travel rarely,144,Research & Development,22,3,46,Laboratory Technician,5,4,4,3
+54,False,travel rarely,548,Research & Development,8,4,42,Laboratory Technician,1,0,0,0
+34,False,travel rarely,1303,Research & Development,2,4,62,Research Scientist,7,3,5,7
+46,False,travel rarely,1125,Sales,10,3,94,Sales Executive,3,2,1,2
+33,True,travel rarely,1277,Research & Development,15,1,56,Manager,7,6,7,7
+33,True,travel rarely,587,Research & Development,10,1,38,Laboratory Technician,4,3,1,3
+30,False,travel rarely,413,Sales,7,1,57,Sales Representative,3,2,1,2
+35,False,travel rarely,1276,Research & Development,16,3,72,Healthcare Representative,8,7,0,0
+31,True,travel frequently,534,Research & Development,20,3,66,Healthcare Representative,1,0,0,0
+34,True,travel frequently,988,Human Resources,23,3,43,Human Resources,3,2,0,2
+42,False,travel frequently,1474,Research & Development,5,2,97,Laboratory Technician,2,2,2,0
+22,True,travel frequently,1368,Research & Development,4,1,99,Laboratory Technician,2,2,1,2
+39,False,travel frequently,443,Research & Development,8,1,48,Laboratory Technician,8,3,0,7
+31,False,travel rarely,828,Sales,2,1,77,Sales Executive,6,5,0,5
+45,False,travel rarely,561,Sales,2,3,61,Sales Executive,8,7,3,7
+26,True,travel frequently,426,Human Resources,17,4,58,Human Resources,7,7,1,0
+29,False,travel rarely,232,Research & Development,19,3,34,Manufacturing Director,3,2,1,2
+33,False,travel rarely,922,Research & Development,1,5,95,Research Director,6,1,0,5
+31,False,travel rarely,688,Sales,7,3,44,Manager,5,4,0,1
+18,True,travel frequently,1306,Sales,5,3,69,Sales Representative,0,0,0,0
+40,False,non-travel,1094,Sales,28,3,58,Sales Executive,1,0,0,1
+41,False,non-travel,509,Research & Development,2,4,62,Healthcare Representative,8,7,0,7
+26,False,travel rarely,775,Sales,29,2,45,Sales Executive,0,0,0,0
+35,False,travel rarely,195,Sales,1,3,80,Sales Executive,5,4,0,3
+26,True,travel rarely,471,Research & Development,24,3,66,Laboratory Technician,1,0,0,0
+37,False,travel rarely,799,Research & Development,1,3,59,Manufacturing Director,6,5,1,2
+46,False,travel frequently,1034,Research & Development,18,1,86,Healthcare Representative,2,2,1,2
+32,True,non-travel,1474,Sales,11,4,60,Sales Executive,4,2,1,2
+24,False,travel frequently,535,Sales,24,3,38,Sales Representative,2,2,2,1
+38,False,travel rarely,1495,Research & Development,10,3,76,Healthcare Representative,1,0,0,0
+37,False,travel rarely,446,Research & Development,1,4,65,Manufacturing Director,6,5,4,3
+24,False,travel rarely,691,Research & Development,23,3,89,Research Scientist,6,5,1,4
+26,False,travel rarely,703,Sales,28,2,66,Sales Executive,5,3,1,4
+24,False,travel rarely,823,Research & Development,17,2,94,Laboratory Technician,1,0,0,0
+25,False,travel rarely,622,Sales,13,1,40,Sales Representative,7,4,0,6
+24,True,travel frequently,1287,Research & Development,7,3,55,Laboratory Technician,6,3,1,2
+30,True,travel frequently,448,Sales,12,4,74,Sales Representative,1,0,0,0
+34,False,travel rarely,254,Research & Development,1,2,83,Research Scientist,6,5,1,3
+31,True,travel rarely,1365,Sales,13,4,46,Sales Executive,3,1,1,2
+35,False,travel rarely,538,Research & Development,25,2,54,Laboratory Technician,3,2,0,2
+31,False,travel rarely,525,Sales,6,4,66,Sales Executive,7,7,5,7
+27,False,travel rarely,798,Research & Development,6,4,66,Research Scientist,5,3,0,3
+37,False,travel rarely,558,Sales,2,3,75,Sales Executive,3,0,1,0
+20,False,travel rarely,959,Research & Development,1,3,83,Research Scientist,1,0,0,0
+43,False,travel rarely,782,Research & Development,6,4,50,Research Director,1,0,0,0
+38,False,travel rarely,362,Research & Development,1,1,43,Research Scientist,0,0,0,0
+43,False,travel frequently,1001,Research & Development,9,5,72,Laboratory Technician,8,7,4,7
+48,False,travel rarely,1236,Research & Development,1,4,40,Manager,3,2,0,2
+44,False,travel rarely,1112,Human Resources,1,4,50,Human Resources,2,2,0,2
+34,False,travel rarely,204,Sales,14,3,31,Sales Representative,8,2,0,6
+27,True,travel rarely,1420,Sales,2,1,85,Sales Representative,4,3,0,2
+21,False,travel rarely,1343,Sales,22,1,49,Sales Representative,3,2,1,2
+44,False,travel rarely,1315,Research & Development,3,4,35,Manager,2,2,0,1
+22,False,travel rarely,604,Research & Development,6,1,69,Research Scientist,2,2,2,2
+33,False,travel rarely,1216,Sales,8,4,39,Sales Executive,5,0,1,2
+32,False,travel rarely,646,Research & Development,9,4,92,Research Scientist,6,4,0,5
+30,False,travel frequently,160,Research & Development,3,3,71,Research Scientist,1,0,0,0
+45,True,travel frequently,306,Sales,26,4,100,Sales Executive,1,1,0,0
+26,False,travel rarely,991,Research & Development,6,3,71,Laboratory Technician,3,2,0,2
+29,False,travel rarely,1176,Sales,3,2,62,Sales Executive,6,0,1,2
+36,False,travel rarely,913,Research & Development,9,2,48,Manufacturing Director,3,2,0,2
+27,False,travel rarely,1115,Research & Development,3,4,54,Research Scientist,4,2,1,1
+20,True,travel rarely,1362,Research & Development,10,1,32,Research Scientist,1,0,1,1
+35,False,non-travel,727,Research & Development,3,3,41,Laboratory Technician,1,0,0,0
+23,False,travel rarely,885,Research & Development,4,3,58,Research Scientist,3,2,0,2
+25,False,travel rarely,810,Sales,8,3,57,Sales Executive,3,2,1,2
+38,False,travel rarely,243,Sales,7,4,46,Sales Executive,7,7,0,5
+48,False,travel rarely,817,Sales,2,1,56,Sales Executive,2,2,2,2
+27,False,travel frequently,1410,Sales,3,1,71,Sales Executive,6,5,0,4
+37,False,travel rarely,1225,Research & Development,10,2,80,Research Scientist,1,0,0,0
+34,False,travel rarely,1442,Research & Development,9,3,46,Healthcare Representative,8,7,7,7
+24,True,travel rarely,693,Sales,3,2,65,Sales Executive,2,2,2,0
+50,True,travel frequently,562,Sales,8,2,50,Sales Executive,4,3,1,3
+32,False,travel rarely,1018,Research & Development,3,2,39,Research Director,7,7,7,7
+47,False,travel rarely,703,Sales,14,4,42,Sales Executive,7,7,1,7
+53,False,travel rarely,970,Research & Development,7,3,59,Research Director,5,1,1,3
+60,False,travel rarely,1179,Sales,16,4,84,Sales Executive,2,2,2,2
+50,False,travel rarely,316,Sales,8,4,54,Sales Representative,2,2,2,2
+28,True,travel rarely,654,Research & Development,1,2,67,Research Scientist,7,7,3,7
+36,False,non-travel,427,Research & Development,8,3,63,Research Director,8,7,0,5
+38,False,travel rarely,168,Research & Development,1,3,81,Manufacturing Director,1,0,0,0
+44,False,non-travel,381,Research & Development,24,3,49,Laboratory Technician,5,2,1,4
+30,False,travel rarely,501,Sales,27,5,99,Sales Executive,8,7,7,7
+29,False,travel rarely,1396,Sales,10,3,99,Sales Representative,1,0,0,0
+42,True,travel frequently,933,Research & Development,19,3,57,Research Scientist,2,2,2,2
+43,False,travel frequently,775,Sales,15,3,47,Sales Executive,2,2,2,2
+34,False,travel rarely,970,Research & Development,8,2,96,Healthcare Representative,5,1,4,3
+23,False,travel rarely,650,Research & Development,9,1,37,Laboratory Technician,4,3,0,2
+39,False,travel rarely,141,Human Resources,3,3,44,Human Resources,8,3,3,6
+40,False,travel rarely,804,Research & Development,2,1,86,Research Scientist,4,2,2,3
+27,False,travel rarely,975,Research & Development,7,3,55,Healthcare Representative,7,6,0,7
+29,False,travel rarely,1090,Sales,10,3,83,Sales Representative,2,2,2,2
+53,False,travel rarely,346,Research & Development,6,3,86,Laboratory Technician,2,2,2,2
+35,False,non-travel,1225,Research & Development,2,4,61,Healthcare Representative,1,0,0,0
+38,False,travel rarely,268,Research & Development,2,5,92,Research Scientist,1,0,0,1
+34,False,travel rarely,167,Research & Development,8,5,32,Manufacturing Director,0,0,0,0
+25,False,travel rarely,883,Sales,26,1,32,Sales Executive,6,5,1,4
+45,False,travel rarely,954,Sales,2,2,46,Sales Representative,8,7,3,1
+23,False,travel rarely,310,Research & Development,10,1,79,Research Scientist,2,2,0,2
+47,True,travel frequently,719,Sales,27,2,77,Sales Executive,5,4,1,3
+34,False,travel rarely,304,Sales,2,3,60,Sales Executive,6,5,1,4
+55,True,travel rarely,725,Research & Development,2,3,78,Manager,5,2,1,4
+52,False,non-travel,715,Research & Development,19,4,41,Research Scientist,4,3,1,2
+26,False,travel frequently,575,Research & Development,1,2,71,Laboratory Technician,2,2,2,0
+29,False,travel rarely,657,Research & Development,27,3,66,Healthcare Representative,8,7,1,1
+26,True,travel rarely,1146,Sales,8,3,38,Sales Executive,4,3,1,2
+34,False,travel rarely,182,Research & Development,1,4,72,Research Scientist,4,2,1,3
+54,False,travel rarely,376,Research & Development,19,4,95,Manufacturing Director,5,3,1,4
+27,False,travel frequently,829,Sales,8,1,84,Sales Executive,4,2,1,1
+37,False,travel rarely,571,Research & Development,10,1,82,Research Scientist,5,3,4,3
+34,False,travel rarely,121,Research & Development,2,4,86,Research Scientist,6,5,1,3
+35,False,travel rarely,384,Sales,8,4,72,Sales Representative,3,2,0,2
+30,False,travel rarely,921,Research & Development,1,3,38,Laboratory Technician,2,2,0,2
+40,False,travel frequently,791,Research & Development,2,2,38,Healthcare Representative,8,7,3,7
+34,False,travel rarely,1111,Sales,8,2,93,Sales Executive,3,2,1,2
+23,True,travel rarely,1243,Research & Development,6,3,63,Laboratory Technician,0,0,0,0
+24,False,non-travel,1092,Research & Development,9,3,60,Laboratory Technician,1,0,0,0
+52,False,travel rarely,1325,Research & Development,11,4,82,Laboratory Technician,5,2,1,4
+50,False,travel rarely,691,Research & Development,2,3,64,Research Director,4,3,0,3
+29,True,travel rarely,805,Research & Development,1,2,36,Laboratory Technician,1,0,0,0
+33,True,travel rarely,118,Sales,16,3,69,Sales Executive,3,2,0,2
+35,False,travel rarely,1258,Research & Development,1,4,40,Research Scientist,2,2,2,2
+42,False,travel rarely,932,Research & Development,1,2,43,Manufacturing Director,4,3,0,2
+28,True,travel rarely,890,Research & Development,2,4,46,Research Scientist,2,2,2,1
+36,False,travel rarely,1041,Human Resources,13,3,36,Human Resources,5,2,0,4
+40,False,travel frequently,720,Research & Development,16,4,51,Laboratory Technician,1,0,0,0
+30,False,travel rarely,946,Research & Development,2,3,52,Manufacturing Director,0,0,0,0
+45,False,travel rarely,252,Research & Development,2,3,95,Research Scientist,1,0,0,0
+38,False,travel frequently,471,Research & Development,12,3,45,Healthcare Representative,4,3,1,2
+34,False,travel frequently,702,Research & Development,16,4,100,Research Scientist,5,2,1,3
+43,False,travel rarely,589,Research & Development,14,2,94,Research Director,4,1,1,0
+35,False,travel rarely,950,Research & Development,7,3,59,Manufacturing Director,8,5,1,6
+28,False,travel rarely,760,Sales,2,4,81,Sales Executive,8,7,7,5
+34,False,travel rarely,829,Human Resources,3,2,88,Human Resources,3,2,0,2
+26,True,travel frequently,887,Research & Development,5,2,88,Research Scientist,8,7,1,7
+27,False,non-travel,443,Research & Development,3,3,50,Research Scientist,0,0,0,0
+44,False,travel rarely,625,Research & Development,4,3,50,Healthcare Representative,5,2,2,3
+25,False,travel rarely,180,Research & Development,2,1,65,Research Scientist,4,3,0,1
+35,False,travel rarely,1343,Research & Development,27,1,53,Research Scientist,6,5,1,1
+32,False,travel rarely,117,Sales,13,4,73,Sales Executive,5,2,0,3
+30,False,travel frequently,1012,Research & Development,5,4,75,Research Scientist,5,4,0,3
+53,False,travel rarely,661,Sales,7,2,78,Sales Executive,5,2,0,4
+45,False,travel rarely,930,Sales,9,3,74,Sales Executive,5,4,0,2
+32,False,travel rarely,638,Research & Development,8,2,91,Research Scientist,5,3,1,3
+37,False,travel rarely,342,Sales,16,4,66,Sales Executive,1,0,0,0
+28,False,travel rarely,1169,Human Resources,8,2,63,Human Resources,5,1,0,4
+22,False,travel rarely,1230,Research & Development,1,2,33,Manufacturing Director,2,2,2,2
+44,False,travel rarely,986,Research & Development,8,4,62,Laboratory Technician,3,2,0,2
+42,False,travel frequently,1271,Research & Development,2,1,35,Research Scientist,2,1,2,2
+36,False,travel rarely,1278,Human Resources,8,3,77,Human Resources,5,4,0,3
+25,False,travel rarely,141,Sales,3,1,98,Sales Executive,5,3,0,3
+32,False,non-travel,300,Research & Development,1,3,61,Laboratory Technician,3,0,0,2
+25,False,travel rarely,583,Sales,4,1,87,Sales Executive,5,2,0,3
+49,False,travel rarely,1418,Research & Development,1,3,36,Research Scientist,4,2,0,2
+24,False,non-travel,1269,Research & Development,4,1,46,Laboratory Technician,5,2,3,4
+38,False,travel rarely,395,Sales,9,3,98,Sales Representative,2,2,1,2
+42,False,travel rarely,1265,Research & Development,3,3,95,Laboratory Technician,5,3,1,3
+31,False,travel rarely,1222,Research & Development,11,4,48,Research Scientist,6,4,0,2
+29,True,travel rarely,341,Sales,1,3,48,Sales Representative,3,2,0,2
+53,False,travel rarely,868,Sales,8,3,73,Sales Executive,2,0,2,2
+37,False,travel frequently,1231,Sales,21,2,54,Sales Representative,5,4,0,0
+43,False,travel frequently,422,Research & Development,1,3,33,Healthcare Representative,5,2,2,2
+47,False,travel rarely,249,Sales,2,2,35,Sales Executive,7,6,7,7
+39,False,travel rarely,1383,Human Resources,2,3,42,Human Resources,5,4,0,4
+33,False,travel rarely,1075,Human Resources,3,2,57,Human Resources,4,3,0,3
+32,True,travel rarely,374,Research & Development,25,4,87,Laboratory Technician,1,0,0,1
+29,False,travel rarely,1086,Research & Development,7,1,62,Laboratory Technician,4,3,0,3
+44,False,travel rarely,661,Research & Development,9,2,61,Research Scientist,8,7,7,1
+28,False,travel rarely,821,Sales,5,4,98,Sales Executive,4,2,0,2
+58,True,travel frequently,781,Research & Development,2,1,57,Laboratory Technician,1,0,0,0
+43,False,travel rarely,177,Research & Development,8,3,55,Manufacturing Director,1,0,0,0
+20,True,travel rarely,500,Sales,2,3,49,Sales Representative,2,2,0,2
+21,True,travel rarely,1427,Research & Development,18,1,65,Research Scientist,1,0,0,0
+47,False,travel rarely,1454,Sales,2,4,65,Sales Representative,3,2,1,2
+22,True,travel rarely,617,Research & Development,3,1,34,Manufacturing Director,3,2,0,2
+41,True,travel rarely,1085,Research & Development,2,4,57,Laboratory Technician,7,7,1,0
+28,False,travel rarely,995,Research & Development,9,3,77,Research Scientist,2,2,2,2
+39,True,travel rarely,1122,Research & Development,6,3,70,Laboratory Technician,2,2,2,2
+27,False,travel rarely,618,Research & Development,4,3,76,Research Scientist,1,1,0,0
+34,False,travel rarely,546,Research & Development,10,3,83,Laboratory Technician,1,0,1,0
+42,False,travel rarely,462,Sales,14,2,68,Sales Executive,5,4,0,3
+33,False,travel rarely,1198,Research & Development,1,4,100,Research Scientist,3,2,0,2
+58,False,travel rarely,1272,Research & Development,5,3,37,Healthcare Representative,6,0,0,4
+31,False,travel rarely,154,Sales,7,4,41,Sales Representative,7,7,5,2
+48,False,travel rarely,1469,Research & Development,20,4,51,Research Scientist,0,0,0,0
+36,False,travel rarely,188,Research & Development,7,4,65,Research Scientist,6,2,0,1
+32,False,non-travel,1184,Research & Development,1,3,70,Laboratory Technician,3,0,0,2
+25,True,travel rarely,867,Sales,19,2,36,Sales Representative,1,0,0,0
+40,False,travel rarely,658,Sales,10,4,67,Sales Executive,1,0,0,0
+26,False,travel frequently,1283,Sales,1,3,52,Sales Executive,7,7,0,7
+19,True,travel rarely,419,Sales,21,3,37,Sales Representative,1,0,0,0
+20,True,travel rarely,129,Research & Development,4,3,84,Laboratory Technician,1,0,0,0
+40,False,travel frequently,1469,Research & Development,9,4,35,Research Scientist,1,1,0,0
+32,False,travel rarely,498,Research & Development,3,4,93,Manufacturing Director,8,7,6,3
+33,False,travel rarely,1069,Research & Development,1,3,42,Healthcare Representative,5,0,1,4
+29,False,travel frequently,1404,Sales,20,3,84,Sales Representative,3,1,0,2
+35,False,travel rarely,1219,Sales,18,3,86,Sales Executive,5,2,1,0
+58,True,travel rarely,289,Research & Development,2,3,51,Research Scientist,1,0,0,0
+30,False,travel rarely,231,Sales,8,2,62,Sales Executive,8,4,7,7
+38,False,non-travel,152,Sales,10,3,85,Sales Executive,5,3,1,3
+39,False,travel rarely,903,Sales,2,5,41,Sales Executive,8,7,0,7
+40,True,non-travel,1479,Sales,24,3,100,Sales Executive,1,0,0,0
+36,False,non-travel,1229,Sales,8,4,84,Sales Executive,7,7,0,7
+31,True,non-travel,335,Research & Development,9,2,46,Research Scientist,3,2,1,2
+29,True,travel rarely,906,Research & Development,10,3,92,Research Scientist,0,0,0,0
+33,False,travel rarely,461,Research & Development,13,1,53,Research Scientist,3,2,0,2
+45,False,travel rarely,974,Research & Development,1,4,91,Laboratory Technician,5,3,0,2
+50,False,travel rarely,1126,Research & Development,1,2,66,Research Director,5,4,1,3
+33,False,travel frequently,827,Research & Development,1,4,84,Healthcare Representative,6,5,1,2
+27,False,travel rarely,1134,Research & Development,16,4,37,Laboratory Technician,2,2,2,2
+30,True,travel rarely,138,Research & Development,22,3,48,Research Scientist,5,2,0,1
+38,False,travel frequently,1391,Research & Development,10,1,66,Research Scientist,2,1,0,2
+46,False,travel rarely,566,Research & Development,7,2,75,Manufacturing Director,8,7,0,7
+24,False,travel rarely,1206,Research & Development,17,1,41,Manufacturing Director,4,2,3,2
+35,True,travel rarely,622,Research & Development,14,4,39,Laboratory Technician,4,2,0,2
+31,False,travel frequently,853,Research & Development,1,1,96,Manufacturing Director,4,3,0,3
+18,False,non-travel,287,Research & Development,5,2,73,Research Scientist,0,0,0,0
+30,False,travel rarely,153,Research & Development,8,2,73,Research Director,8,7,1,7
+20,True,travel rarely,1097,Research & Development,11,3,98,Research Scientist,1,0,0,0
+30,True,travel frequently,109,Research & Development,5,3,60,Laboratory Technician,3,2,1,2
+26,False,travel rarely,1066,Research & Development,2,2,32,Manufacturing Director,8,7,1,3
+22,False,travel rarely,217,Research & Development,8,1,94,Laboratory Technician,4,3,1,1
+48,False,travel rarely,277,Research & Development,6,3,97,Healthcare Representative,2,2,2,2
+41,False,travel rarely,549,Research & Development,7,2,42,Manufacturing Director,2,2,2,1
+27,False,travel rarely,1055,Research & Development,2,4,47,Manufacturing Director,3,2,2,2
+35,False,travel rarely,802,Research & Development,10,3,45,Laboratory Technician,3,2,1,2
+42,False,travel rarely,265,Sales,5,2,90,Manager,1,0,0,0
+50,False,travel rarely,804,Research & Development,9,3,64,Laboratory Technician,1,0,0,0
+59,False,travel rarely,715,Research & Development,2,3,69,Manufacturing Director,5,3,4,3
+37,True,travel rarely,1141,Research & Development,11,2,61,Healthcare Representative,1,0,0,0
+55,False,travel frequently,135,Research & Development,18,4,62,Healthcare Representative,8,7,6,7
+38,False,travel rarely,1035,Sales,3,4,42,Sales Executive,1,0,0,0
+26,True,non-travel,265,Sales,29,2,79,Sales Executive,2,2,2,2
+33,False,non-travel,1038,Sales,8,1,88,Sales Representative,2,2,2,2
+32,False,non-travel,1109,Research & Development,29,4,69,Laboratory Technician,8,7,7,7
+59,False,travel rarely,1089,Sales,1,2,66,Manager,6,4,0,4
+45,False,travel rarely,788,Human Resources,24,4,36,Human Resources,6,3,0,4
+36,True,travel rarely,660,Research & Development,15,3,81,Laboratory Technician,1,0,0,0
+26,True,travel frequently,342,Research & Development,2,3,57,Research Scientist,3,2,1,2
+34,False,travel rarely,1333,Sales,10,4,87,Sales Representative,1,1,0,0
+28,False,travel rarely,1144,Sales,10,1,74,Sales Representative,1,0,0,0
+38,False,travel frequently,1186,Research & Development,3,4,44,Research Scientist,2,2,2,2
+50,False,travel rarely,1464,Research & Development,2,4,62,Research Director,8,1,7,7
+37,False,travel rarely,124,Research & Development,3,3,35,Healthcare Representative,4,3,0,1
+40,False,travel rarely,300,Sales,26,3,74,Sales Executive,7,7,7,5
+26,False,travel frequently,921,Research & Development,1,1,66,Research Scientist,5,3,1,3
+46,False,travel rarely,430,Research & Development,1,4,40,Research Director,2,2,2,2
+56,False,travel frequently,1240,Research & Development,9,3,63,Research Scientist,5,4,0,3
+43,False,travel rarely,415,Sales,25,3,79,Sales Executive,1,0,0,0
+20,True,travel frequently,769,Sales,9,3,54,Sales Representative,2,2,0,2
+21,True,travel rarely,1334,Research & Development,10,3,36,Laboratory Technician,1,0,1,0
+26,False,travel rarely,192,Research & Development,1,2,59,Laboratory Technician,5,3,1,3
+30,False,travel rarely,1176,Research & Development,20,3,85,Manufacturing Director,6,2,0,2
+27,False,non-travel,1277,Research & Development,8,5,87,Laboratory Technician,3,2,1,2
+55,False,travel frequently,1091,Research & Development,2,1,65,Manufacturing Director,3,2,1,2
+28,False,travel rarely,857,Research & Development,10,3,59,Research Scientist,8,7,1,7
+33,False,travel rarely,654,Research & Development,5,3,34,Healthcare Representative,3,2,1,2
+35,True,travel rarely,1204,Sales,4,3,86,Sales Executive,8,7,4,7
+28,False,travel rarely,895,Research & Development,15,2,50,Laboratory Technician,4,2,2,2
+34,False,travel frequently,618,Research & Development,3,1,45,Healthcare Representative,6,2,0,4
+37,False,travel rarely,309,Sales,10,4,88,Sales Executive,1,0,0,0
+25,True,travel rarely,1219,Research & Development,4,1,32,Laboratory Technician,7,7,5,6
+26,True,travel rarely,1330,Research & Development,21,3,37,Laboratory Technician,1,1,0,0
+33,True,travel rarely,1017,Research & Development,25,3,55,Research Scientist,2,2,2,2
+28,True,travel frequently,1009,Research & Development,1,3,45,Laboratory Technician,1,0,0,0
+50,True,travel frequently,959,Sales,1,4,81,Sales Executive,0,0,0,0
+33,False,travel frequently,970,Sales,7,3,30,Sales Executive,3,2,0,2
+34,False,non-travel,697,Research & Development,3,4,40,Research Scientist,0,0,0,0
+48,False,non-travel,1262,Research & Development,1,4,35,Manager,5,4,2,1
+52,False,travel rarely,994,Research & Development,7,4,87,Healthcare Representative,8,6,4,0
+38,False,travel rarely,770,Sales,10,4,73,Sales Executive,8,7,2,7
+29,False,travel rarely,1107,Research & Development,28,4,93,Research Scientist,7,5,1,7
+38,False,travel rarely,130,Sales,2,2,32,Sales Executive,1,0,0,0
+43,False,travel frequently,1082,Research & Development,27,3,83,Manufacturing Director,8,7,0,1
+21,False,travel rarely,984,Research & Development,1,1,70,Research Scientist,2,2,2,2
+39,False,non-travel,439,Research & Development,9,3,70,Laboratory Technician,5,4,0,3
+31,False,travel frequently,793,Sales,20,3,67,Sales Representative,2,2,2,2
+28,False,travel rarely,1451,Research & Development,2,1,67,Research Scientist,5,3,0,4
+35,False,travel frequently,1182,Sales,11,2,54,Sales Executive,5,2,0,2
+34,False,travel frequently,1003,Research & Development,2,2,95,Manufacturing Director,3,2,0,2
+29,False,travel frequently,490,Research & Development,10,3,61,Research Scientist,7,5,1,1
+42,False,travel rarely,188,Research & Development,29,3,56,Laboratory Technician,1,0,0,0
+38,False,travel rarely,433,Human Resources,1,3,37,Human Resources,7,6,5,0
+28,False,travel frequently,773,Research & Development,6,3,39,Research Scientist,3,1,0,2
+18,True,non-travel,247,Research & Development,8,1,80,Laboratory Technician,0,0,0,0
+33,True,travel rarely,603,Sales,9,4,77,Sales Executive,5,2,0,3
+41,False,travel rarely,167,Research & Development,12,4,46,Laboratory Technician,1,0,0,0
+31,True,travel frequently,874,Research & Development,15,3,72,Laboratory Technician,2,2,2,2
+37,False,travel rarely,367,Research & Development,25,2,52,Healthcare Representative,6,2,1,3
+27,False,travel rarely,199,Research & Development,6,3,55,Research Scientist,4,2,2,2
+34,False,travel rarely,1400,Sales,9,1,70,Sales Executive,6,5,1,3
+35,False,travel rarely,528,Human Resources,8,4,100,Human Resources,5,4,1,4
+42,False,travel rarely,647,Sales,4,4,45,Sales Executive,6,4,1,5
+35,False,travel rarely,982,Research & Development,1,4,58,Laboratory Technician,8,0,1,7
+24,False,travel rarely,477,Research & Development,24,3,49,Laboratory Technician,4,3,1,2
+28,True,travel rarely,1485,Research & Development,12,1,79,Laboratory Technician,1,1,0,0
+26,False,travel rarely,1384,Research & Development,3,4,82,Laboratory Technician,8,7,0,7
+40,False,travel frequently,902,Research & Development,26,2,92,Research Scientist,1,1,0,0
+35,False,travel rarely,819,Research & Development,2,3,44,Manufacturing Director,7,7,6,4
+35,False,travel frequently,636,Research & Development,4,4,47,Laboratory Technician,2,2,2,2
+43,True,travel rarely,1372,Sales,9,3,85,Sales Executive,4,3,1,3
+32,False,non-travel,862,Sales,2,1,76,Sales Representative,1,0,0,0
+56,False,travel rarely,718,Research & Development,4,4,92,Manager,5,2,4,2
+19,False,travel rarely,645,Research & Development,9,2,54,Research Scientist,1,1,0,0
+45,False,travel rarely,1457,Research & Development,7,3,83,Research Scientist,3,2,0,2
+20,False,travel rarely,805,Research & Development,3,3,87,Laboratory Technician,2,2,1,2
+44,True,travel rarely,1097,Research & Development,10,4,96,Research Scientist,6,4,0,2
+53,False,travel rarely,1223,Research & Development,7,2,50,Manager,7,7,4,7
+29,False,travel rarely,942,Research & Development,15,1,69,Research Scientist,5,4,1,3
+22,True,travel frequently,1256,Research & Development,3,4,48,Research Scientist,0,0,0,0
+44,False,non-travel,111,Research & Development,17,3,74,Research Scientist,0,0,0,0
+33,False,travel rarely,147,Human Resources,2,3,99,Human Resources,5,4,1,4
+41,True,non-travel,906,Research & Development,5,2,95,Research Scientist,1,0,0,0
+30,False,travel rarely,1329,Sales,29,4,61,Sales Executive,4,3,0,3
+40,False,travel frequently,1184,Sales,2,4,62,Sales Executive,0,0,0,0
+50,False,travel frequently,1421,Research & Development,2,3,30,Manager,2,2,2,2
+28,False,travel rarely,1179,Research & Development,19,4,78,Laboratory Technician,6,5,3,3
+46,False,travel rarely,1450,Research & Development,15,2,52,Research Director,4,2,0,3
+35,False,travel rarely,1361,Sales,17,4,94,Sales Executive,7,7,1,7
+24,True,travel rarely,984,Research & Development,17,2,97,Laboratory Technician,1,0,0,0
+36,False,travel rarely,917,Research & Development,6,4,60,Laboratory Technician,7,7,1,7
+20,False,travel rarely,654,Sales,21,3,43,Sales Representative,2,1,2,2
+46,False,travel rarely,150,Research & Development,2,4,60,Manufacturing Director,6,3,1,4
+42,False,non-travel,179,Human Resources,2,5,79,Human Resources,4,3,0,3
+32,False,travel frequently,116,Research & Development,13,3,77,Laboratory Technician,2,2,2,2
+32,False,travel frequently,1316,Research & Development,2,2,38,Research Scientist,8,7,0,7
+36,False,travel rarely,363,Research & Development,1,3,77,Manufacturing Director,7,7,7,7
+40,False,travel rarely,107,Sales,10,3,84,Sales Executive,5,1,1,3
+25,False,travel rarely,1356,Sales,10,4,57,Sales Executive,4,3,1,1
+42,False,travel frequently,458,Research & Development,26,5,60,Research Director,1,0,0,0
+54,False,travel frequently,966,Research & Development,1,4,53,Manufacturing Director,5,4,1,4
+19,True,non-travel,504,Research & Development,10,3,96,Research Scientist,1,1,0,0
+29,False,travel rarely,1010,Research & Development,1,3,97,Research Scientist,3,2,1,2
+31,False,travel rarely,1332,Research & Development,11,2,80,Healthcare Representative,6,5,0,1
+59,False,travel rarely,326,Sales,3,3,48,Sales Executive,6,1,0,5
+43,False,travel rarely,920,Research & Development,3,3,96,Research Director,8,7,0,7
+49,False,travel rarely,1098,Research & Development,4,2,85,Manager,1,0,0,0
+48,False,travel rarely,969,Research & Development,2,2,76,Laboratory Technician,1,0,0,0
+27,False,travel rarely,1167,Research & Development,4,2,76,Research Scientist,5,3,0,3
+29,False,travel rarely,1329,Research & Development,7,3,82,Healthcare Representative,6,0,1,0
+48,False,travel rarely,715,Research & Development,1,3,76,Research Director,1,0,0,0
+29,False,travel rarely,694,Research & Development,1,3,87,Research Director,7,7,1,7
+34,False,travel rarely,1320,Research & Development,20,3,89,Research Scientist,1,0,0,0
+19,False,travel rarely,265,Research & Development,25,3,57,Research Scientist,1,0,0,1
+23,False,travel rarely,373,Research & Development,1,2,47,Research Scientist,1,0,0,1
+25,True,travel frequently,599,Sales,24,1,73,Sales Representative,1,0,1,0
+26,False,travel rarely,583,Research & Development,4,2,53,Research Scientist,8,5,2,2
+21,True,travel frequently,251,Research & Development,10,2,45,Laboratory Technician,2,2,2,2
+34,False,travel rarely,131,Sales,2,3,86,Sales Executive,3,2,0,2
+28,False,travel frequently,791,Research & Development,1,4,44,Laboratory Technician,4,2,0,2
+35,False,travel rarely,735,Research & Development,6,1,66,Research Scientist,3,2,2,2
+42,False,travel rarely,603,Research & Development,7,4,78,Research Scientist,1,0,0,0
+28,False,travel frequently,193,Research & Development,2,3,52,Laboratory Technician,2,2,2,2
+51,False,travel frequently,968,Research & Development,6,2,40,Laboratory Technician,7,0,7,7
+30,False,non-travel,879,Research & Development,9,2,72,Manufacturing Director,8,4,1,7
+29,True,travel rarely,806,Research & Development,7,3,39,Laboratory Technician,7,7,7,7
+28,False,travel rarely,640,Research & Development,1,3,84,Research Scientist,3,2,1,2
+25,False,travel rarely,266,Research & Development,1,3,40,Research Scientist,2,2,2,1
+45,False,travel frequently,364,Research & Development,25,3,83,Manager,0,0,0,0
+58,False,travel rarely,848,Research & Development,23,4,88,Research Scientist,2,2,2,2
+39,True,travel rarely,360,Research & Development,23,3,93,Research Scientist,5,2,0,3
+36,False,travel rarely,325,Research & Development,10,4,63,Healthcare Representative,7,7,1,7
+46,False,travel rarely,991,Human Resources,1,2,44,Human Resources,7,6,5,7
+50,False,travel rarely,1322,Research & Development,28,3,43,Research Director,3,2,1,2
+40,True,travel rarely,299,Sales,25,4,57,Sales Executive,5,4,1,0
+52,True,travel rarely,1030,Sales,5,3,64,Sales Executive,8,7,7,7
+39,False,travel rarely,524,Research & Development,18,2,32,Manufacturing Director,8,7,1,7
+31,True,travel frequently,1060,Sales,1,3,54,Sales Representative,3,2,2,2
+44,True,travel rarely,935,Research & Development,3,3,89,Laboratory Technician,3,2,1,2
+56,False,travel rarely,206,Human Resources,8,4,99,Manager,7,3,7,7
+40,False,non-travel,458,Research & Development,16,2,74,Research Scientist,4,2,0,0
+38,False,travel rarely,1009,Sales,2,2,31,Sales Executive,7,7,1,7
+25,False,travel rarely,882,Research & Development,19,1,67,Laboratory Technician,3,2,1,2
+40,False,travel rarely,329,Research & Development,1,4,88,Laboratory Technician,4,2,0,3
+27,False,travel rarely,1291,Sales,11,3,98,Sales Representative,1,0,0,0
+51,False,travel rarely,1405,Research & Development,11,2,82,Manufacturing Director,5,2,0,3
+18,False,non-travel,1124,Research & Development,1,3,97,Laboratory Technician,0,0,0,0
+27,False,travel frequently,793,Sales,2,1,43,Sales Executive,6,2,0,0
+34,False,non-travel,999,Research & Development,26,1,92,Research Scientist,5,4,0,0
+34,False,travel rarely,285,Research & Development,29,3,86,Laboratory Technician,8,7,7,7
+31,True,travel frequently,703,Sales,2,3,90,Sales Representative,1,0,0,0
+35,True,travel frequently,662,Sales,18,4,67,Sales Executive,4,2,3,2
+38,False,travel frequently,693,Research & Development,7,3,57,Research Scientist,4,2,0,3
+28,False,travel rarely,736,Sales,26,3,48,Sales Executive,5,3,0,4
+39,False,travel rarely,1498,Sales,21,4,44,Sales Executive,5,4,1,4
+51,False,travel frequently,541,Sales,2,3,52,Sales Executive,4,2,3,2
+41,False,travel frequently,1200,Research & Development,22,3,75,Research Scientist,6,2,3,3
+37,False,travel rarely,1439,Research & Development,4,1,54,Research Scientist,6,4,1,3
+33,False,travel frequently,1111,Sales,5,1,61,Sales Executive,5,4,1,2
+32,False,travel rarely,499,Sales,2,1,36,Sales Executive,3,2,1,2
+39,False,non-travel,1485,Research & Development,25,2,71,Healthcare Representative,6,4,0,5
+25,False,travel rarely,1372,Sales,18,1,93,Sales Executive,3,2,1,2
+52,False,travel frequently,322,Research & Development,28,2,59,Manufacturing Director,5,3,0,2
+27,False,travel rarely,205,Sales,10,3,98,Sales Executive,6,2,4,4
+27,True,travel rarely,135,Research & Development,17,4,51,Research Scientist,8,2,7,7
+26,False,travel rarely,683,Research & Development,2,1,36,Research Scientist,4,3,1,1
+52,False,travel rarely,258,Research & Development,8,4,54,Laboratory Technician,5,4,0,4
+37,False,travel rarely,1462,Research & Development,11,3,94,Laboratory Technician,3,2,0,2
+35,False,travel frequently,200,Research & Development,18,2,60,Manufacturing Director,2,2,2,2
+25,False,travel rarely,949,Research & Development,1,3,81,Laboratory Technician,3,2,0,2
+26,False,travel rarely,652,Research & Development,7,3,100,Laboratory Technician,7,7,0,7
+49,True,travel frequently,1475,Research & Development,28,2,97,Laboratory Technician,4,3,1,3
+29,True,travel frequently,337,Research & Development,14,1,84,Healthcare Representative,8,7,7,7
+55,False,travel rarely,1136,Research & Development,1,4,81,Research Director,7,7,0,0
+36,False,travel rarely,1174,Sales,3,4,99,Sales Executive,5,4,0,1
+31,True,travel frequently,667,Sales,1,4,50,Sales Representative,1,0,0,0
+30,False,travel rarely,855,Sales,7,4,73,Sales Executive,3,2,0,2
+31,False,travel rarely,182,Research & Development,8,5,93,Research Director,3,2,1,0
+34,False,travel frequently,560,Research & Development,1,4,91,Research Scientist,4,3,1,3
+31,True,travel rarely,202,Research & Development,8,3,34,Research Scientist,1,0,0,0
+27,False,travel rarely,1377,Research & Development,11,1,91,Laboratory Technician,5,0,1,4
+36,False,travel rarely,329,Sales,16,4,98,Sales Executive,3,2,0,2
+47,False,travel rarely,465,Research & Development,1,3,74,Research Scientist,6,5,1,2
+25,True,travel rarely,383,Sales,9,2,68,Sales Representative,3,2,2,2
+37,False,non-travel,1413,Research & Development,5,2,84,Laboratory Technician,6,5,1,3
+56,False,travel rarely,1255,Research & Development,1,2,90,Research Scientist,3,2,1,0
+24,False,travel rarely,1476,Sales,4,1,42,Sales Executive,5,4,0,3
+32,False,travel rarely,601,Sales,7,5,97,Sales Executive,4,3,0,3
+34,False,travel rarely,401,Research & Development,1,3,86,Laboratory Technician,5,4,0,2
+41,False,travel rarely,1283,Research & Development,5,5,90,Research Scientist,4,2,0,3
+40,False,non-travel,663,Research & Development,9,4,81,Laboratory Technician,8,7,0,7
+46,True,travel rarely,377,Sales,9,3,52,Sales Executive,7,7,4,3
+39,True,non-travel,592,Research & Development,2,3,54,Laboratory Technician,1,0,0,0
+45,False,travel rarely,1038,Research & Development,20,3,95,Healthcare Representative,7,7,0,7
+31,False,travel rarely,1398,Human Resources,8,2,96,Human Resources,3,2,0,2
+31,True,travel frequently,523,Research & Development,2,3,94,Laboratory Technician,2,2,2,2
+45,False,travel rarely,1448,Research & Development,29,3,55,Manufacturing Director,3,1,1,2
+48,False,travel rarely,1221,Sales,7,3,96,Sales Executive,2,2,2,2
+34,True,travel rarely,1107,Human Resources,9,4,52,Human Resources,2,2,2,2
+28,False,travel rarely,866,Sales,5,3,84,Sales Executive,5,4,1,3
+44,False,non-travel,981,Research & Development,5,3,90,Laboratory Technician,5,2,0,3
+49,False,travel rarely,1495,Research & Development,5,4,96,Healthcare Representative,3,2,1,2
+40,False,travel rarely,896,Research & Development,2,3,68,Research Scientist,3,1,1,2
+44,False,travel rarely,1467,Research & Development,20,3,49,Research Scientist,5,2,1,3
+33,False,travel frequently,430,Sales,7,3,54,Sales Executive,4,3,0,3
+30,False,travel rarely,1358,Sales,16,1,96,Sales Executive,2,1,2,2
+44,False,travel frequently,383,Sales,1,5,79,Sales Executive,1,0,0,0
+30,False,non-travel,990,Research & Development,7,3,64,Research Scientist,1,0,0,0
+49,False,travel rarely,1490,Research & Development,7,4,35,Healthcare Representative,8,7,0,7
+28,True,travel frequently,1496,Sales,1,3,92,Sales Representative,3,2,1,2
+29,True,travel frequently,115,Sales,13,3,51,Sales Executive,5,3,0,0
+35,False,travel rarely,660,Sales,7,1,76,Sales Representative,1,0,0,0
+24,True,travel frequently,381,Research & Development,9,3,89,Laboratory Technician,0,0,0,0
+24,False,non-travel,830,Sales,13,2,78,Sales Representative,1,0,0,0
+44,False,travel frequently,1193,Research & Development,2,1,86,Manufacturing Director,2,2,2,2
+30,False,travel rarely,330,Human Resources,1,3,46,Human Resources,5,3,1,3
+55,False,travel rarely,1229,Research & Development,4,4,30,Healthcare Representative,3,2,1,2
+33,False,travel rarely,1099,Research & Development,4,4,82,Laboratory Technician,5,4,0,2
+47,False,travel rarely,571,Sales,14,3,78,Sales Executive,5,4,1,2
+28,True,travel frequently,289,Research & Development,2,2,38,Laboratory Technician,0,0,0,0
+28,False,travel rarely,1423,Research & Development,1,3,72,Research Scientist,1,0,0,0
+28,False,travel frequently,467,Sales,7,3,55,Sales Executive,4,2,1,3
+49,False,travel rarely,271,Research & Development,3,2,43,Laboratory Technician,3,2,1,2
+29,False,travel frequently,410,Research & Development,2,1,97,Laboratory Technician,3,2,0,2
+28,False,travel rarely,1083,Research & Development,29,1,96,Manufacturing Director,8,6,1,7
+33,False,travel rarely,516,Research & Development,8,5,69,Healthcare Representative,0,0,0,0
+32,False,travel rarely,495,Research & Development,10,3,64,Manager,5,2,0,0
+39,False,travel rarely,1089,Research & Development,6,3,32,Manufacturing Director,2,0,2,2
+23,False,travel rarely,507,Research & Development,20,1,97,Laboratory Technician,4,3,1,2
+40,True,travel rarely,676,Research & Development,9,4,86,Laboratory Technician,5,4,1,0
+31,True,travel frequently,561,Research & Development,3,3,33,Research Scientist,7,2,7,7
+42,False,travel rarely,1210,Research & Development,2,3,68,Laboratory Technician,1,0,0,0
+29,False,travel rarely,441,Research & Development,8,1,39,Healthcare Representative,7,7,0,7
+33,False,travel rarely,575,Research & Development,25,3,44,Manufacturing Director,5,3,0,2
+45,False,travel rarely,950,Research & Development,28,3,97,Research Scientist,5,4,0,3
+40,False,travel rarely,1342,Sales,9,2,47,Sales Executive,8,4,7,1
+24,False,travel rarely,350,Research & Development,21,2,57,Laboratory Technician,1,1,0,0
+40,False,non-travel,1142,Research & Development,8,2,72,Healthcare Representative,2,2,2,2
+35,False,travel rarely,1402,Sales,28,4,98,Sales Representative,5,3,4,2
+32,False,travel rarely,824,Research & Development,5,2,67,Research Scientist,7,1,2,5
+36,False,travel rarely,1157,Sales,2,4,70,Sales Representative,3,2,1,2
+48,False,travel rarely,492,Sales,16,4,96,Sales Executive,8,7,7,7
+29,False,travel rarely,598,Research & Development,9,3,91,Research Scientist,1,0,0,0
+33,False,travel rarely,1242,Sales,8,4,46,Sales Executive,2,2,2,2
+38,False,travel frequently,888,Human Resources,10,4,71,Human Resources,6,3,1,2
+35,False,travel rarely,992,Research & Development,1,3,68,Laboratory Technician,3,0,1,2
+30,False,travel rarely,1288,Sales,29,4,33,Sales Executive,4,2,1,3
+35,True,travel rarely,104,Research & Development,2,3,69,Laboratory Technician,1,0,0,0
+38,True,travel rarely,903,Research & Development,2,3,81,Manufacturing Director,5,2,1,4
+32,False,non-travel,1200,Research & Development,1,4,62,Research Scientist,6,5,1,2
+48,False,travel rarely,1108,Research & Development,15,4,65,Research Scientist,8,2,7,6
+34,False,travel rarely,479,Research & Development,7,4,35,Research Scientist,1,0,0,0
+34,False,travel rarely,1351,Research & Development,1,4,45,Research Scientist,2,2,2,1
+26,False,travel rarely,474,Research & Development,3,3,89,Research Scientist,1,0,0,0
+38,False,travel rarely,437,Sales,16,3,90,Sales Executive,3,2,1,2
+36,False,travel rarely,884,Sales,1,4,73,Sales Executive,1,0,0,0
+35,False,travel rarely,670,Research & Development,10,4,51,Healthcare Representative,5,2,0,4
+39,False,travel rarely,1462,Sales,6,3,38,Sales Executive,7,6,7,6
+29,False,travel frequently,995,Research & Development,2,1,87,Healthcare Representative,6,4,1,3
+50,False,travel rarely,264,Sales,9,3,59,Manager,1,0,0,0
+23,False,travel rarely,977,Research & Development,10,3,45,Research Scientist,2,2,2,2
+36,False,travel frequently,1302,Research & Development,6,4,80,Laboratory Technician,3,2,0,2
+42,False,travel rarely,1059,Research & Development,9,2,93,Manager,1,0,0,1
+34,False,travel frequently,653,Research & Development,10,4,92,Healthcare Representative,8,2,7,7
+40,False,travel rarely,118,Sales,14,2,84,Sales Executive,5,4,1,2
+43,False,travel rarely,990,Research & Development,27,3,87,Laboratory Technician,6,4,0,2
+35,False,travel rarely,1349,Research & Development,7,2,63,Laboratory Technician,1,0,0,1
+28,True,travel rarely,329,Research & Development,24,3,51,Laboratory Technician,1,1,0,0
+22,False,non-travel,457,Research & Development,26,2,85,Research Scientist,4,2,1,3
+32,False,travel rarely,634,Research & Development,5,4,35,Research Scientist,3,2,0,2
+30,False,travel rarely,241,Research & Development,7,3,48,Research Scientist,6,4,1,1
+31,False,travel frequently,715,Sales,2,4,54,Sales Executive,5,2,0,3
+36,False,travel rarely,559,Research & Development,12,4,76,Manufacturing Director,3,2,1,1
+39,False,travel rarely,1387,Research & Development,10,5,76,Manufacturing Director,7,7,7,7
+27,False,travel rarely,1302,Research & Development,19,3,67,Laboratory Technician,7,7,0,7
+28,False,travel rarely,580,Research & Development,27,3,39,Manufacturing Director,5,3,0,0
+21,False,travel rarely,546,Research & Development,5,1,97,Research Scientist,2,2,2,2
+18,True,travel frequently,544,Sales,3,2,70,Sales Representative,0,0,0,0
+47,False,travel rarely,1176,Human Resources,26,4,98,Manager,5,2,1,0
+37,False,travel rarely,671,Research & Development,19,3,85,Manufacturing Director,4,3,0,2
+38,False,travel rarely,397,Research & Development,2,2,54,Manufacturing Director,5,4,0,2
+37,False,travel rarely,1470,Research & Development,10,3,71,Research Scientist,8,4,7,7
+40,False,travel rarely,448,Research & Development,16,3,84,Manufacturing Director,4,2,3,3
+48,False,travel frequently,365,Research & Development,4,5,89,Manager,2,2,2,2
+35,True,travel rarely,763,Sales,15,2,59,Sales Executive,2,2,2,2
+24,False,travel frequently,567,Research & Development,2,1,32,Research Scientist,6,3,1,3
+27,False,travel rarely,486,Research & Development,8,3,86,Research Scientist,3,2,0,2
+27,False,travel frequently,591,Research & Development,2,3,87,Research Scientist,4,2,1,2
+40,True,travel rarely,1329,Research & Development,7,3,73,Laboratory Technician,4,2,0,3
+29,False,travel rarely,469,Sales,10,3,42,Sales Executive,5,2,1,4
+36,False,travel rarely,711,Research & Development,5,4,42,Healthcare Representative,3,2,0,2
+25,False,travel frequently,772,Research & Development,2,1,77,Manufacturing Director,7,7,0,7
+39,False,travel rarely,492,Research & Development,12,3,66,Manufacturing Director,5,4,1,0
+49,False,travel rarely,301,Research & Development,22,4,72,Research Director,4,2,1,2
+20,False,travel rarely,1141,Sales,2,3,31,Sales Representative,2,2,2,2
+36,False,travel rarely,311,Research & Development,7,3,77,Laboratory Technician,4,3,1,3
+36,False,non-travel,894,Research & Development,1,4,33,Manufacturing Director,3,2,1,2
+36,False,travel rarely,1040,Research & Development,3,2,79,Healthcare Representative,5,4,0,4
+33,False,travel rarely,392,Sales,2,4,93,Sales Executive,6,2,0,4
+49,False,travel rarely,464,Research & Development,16,3,74,Laboratory Technician,2,2,2,2
+38,False,travel frequently,148,Research & Development,2,3,42,Laboratory Technician,4,3,3,3
+47,False,travel rarely,1225,Sales,2,4,47,Manager,3,2,1,2
+49,False,travel rarely,809,Research & Development,1,3,36,Manager,8,7,0,0
+41,False,travel rarely,1206,Sales,23,2,80,Sales Executive,2,0,0,2
+20,False,travel rarely,727,Sales,9,1,54,Sales Representative,2,2,0,2
+33,False,non-travel,530,Sales,16,3,36,Sales Executive,6,5,1,2
+36,False,travel rarely,1351,Research & Development,26,4,80,Healthcare Representative,3,2,0,2
+44,False,travel rarely,528,Human Resources,1,3,44,Human Resources,2,2,2,2
+23,True,travel rarely,1320,Research & Development,8,1,93,Laboratory Technician,5,4,1,2
+38,False,travel rarely,1495,Research & Development,4,2,87,Laboratory Technician,0,0,0,0
+53,False,travel rarely,1395,Research & Development,24,4,48,Healthcare Representative,4,3,1,2
+32,True,travel rarely,1259,Research & Development,2,4,95,Laboratory Technician,1,0,0,0
+26,False,non-travel,786,Research & Development,7,3,76,Laboratory Technician,7,7,5,7
+55,False,travel rarely,1441,Research & Development,22,3,94,Research Scientist,4,2,1,2
+60,False,travel rarely,370,Research & Development,1,4,92,Healthcare Representative,1,0,0,0
+37,False,travel frequently,1278,Sales,1,4,31,Sales Executive,6,3,1,3
+23,True,travel rarely,427,Sales,7,3,99,Sales Representative,3,2,0,2
+44,False,travel rarely,921,Research & Development,2,3,96,Healthcare Representative,8,7,6,7
+35,False,travel frequently,146,Research & Development,2,4,79,Research Scientist,5,4,1,4
+24,False,travel rarely,581,Research & Development,9,3,62,Research Scientist,5,3,0,4
+29,False,travel rarely,1082,Research & Development,9,4,43,Laboratory Technician,5,3,1,2
+24,True,travel rarely,240,Human Resources,22,1,58,Human Resources,1,0,0,0
+26,False,travel rarely,390,Research & Development,17,4,62,Laboratory Technician,3,2,0,2
+32,False,travel frequently,585,Research & Development,10,3,56,Research Scientist,5,2,1,3
+31,False,travel rarely,741,Research & Development,2,4,69,Laboratory Technician,5,2,0,3
+41,False,non-travel,552,Human Resources,4,3,60,Human Resources,3,2,1,2
+40,False,travel rarely,369,Research & Development,8,2,92,Manufacturing Director,1,0,0,0
+24,False,travel rarely,506,Research & Development,29,1,91,Laboratory Technician,6,2,1,2
+35,False,travel rarely,1370,Research & Development,27,4,49,Manufacturing Director,7,7,0,7
+47,False,non-travel,543,Sales,2,4,87,Sales Executive,1,0,0,0
+36,True,travel rarely,1456,Sales,13,5,96,Sales Executive,2,2,2,2
+32,True,travel rarely,964,Sales,1,2,34,Sales Executive,0,0,0,0
+23,False,travel rarely,160,Research & Development,4,1,51,Laboratory Technician,3,2,1,2
+31,False,travel frequently,163,Research & Development,24,1,30,Manufacturing Director,5,4,1,4
+32,False,travel rarely,371,Sales,19,3,80,Sales Executive,4,3,0,2
+45,False,travel rarely,176,Human Resources,4,3,56,Human Resources,5,0,0,3
+24,False,travel frequently,897,Human Resources,10,3,59,Human Resources,2,2,2,1
+30,True,travel frequently,600,Human Resources,8,3,66,Human Resources,4,2,1,2
+31,False,travel rarely,1003,Sales,5,3,51,Sales Executive,5,2,0,2
+27,False,travel rarely,1054,Research & Development,8,3,67,Research Scientist,6,2,1,4
+29,True,travel rarely,428,Sales,9,3,52,Sales Representative,2,2,2,2
+29,False,travel frequently,461,Research & Development,1,3,70,Healthcare Representative,3,2,0,2
+30,False,travel rarely,979,Sales,15,2,94,Sales Executive,7,7,1,7
+34,False,travel rarely,181,Research & Development,2,4,97,Research Scientist,5,0,1,2
+49,False,travel rarely,1313,Sales,11,4,80,Sales Executive,5,1,0,4
+33,True,travel rarely,211,Sales,16,3,74,Sales Executive,0,0,0,0
+38,False,travel frequently,594,Research & Development,2,2,75,Laboratory Technician,6,1,0,5
+31,True,travel rarely,1079,Sales,16,4,70,Sales Executive,1,0,0,0
+29,False,travel rarely,590,Research & Development,4,3,91,Research Scientist,1,0,0,0
+30,False,travel rarely,305,Research & Development,16,3,58,Healthcare Representative,7,0,1,7
+32,False,non-travel,953,Research & Development,5,4,65,Research Scientist,7,7,0,7
+38,False,travel rarely,833,Research & Development,18,3,60,Healthcare Representative,1,0,1,0
+43,True,travel frequently,807,Research & Development,17,3,38,Research Scientist,1,0,0,0
+42,False,travel rarely,855,Research & Development,12,3,57,Laboratory Technician,5,3,0,4
+55,False,travel rarely,478,Research & Development,2,3,60,Research Director,1,0,0,0
+41,False,travel rarely,548,Research & Development,9,4,94,Laboratory Technician,5,3,0,4
+53,False,non-travel,661,Research & Development,1,4,60,Manufacturing Director,3,2,0,2
+34,False,travel rarely,511,Sales,3,2,32,Sales Executive,2,2,2,2
+21,True,travel rarely,337,Sales,7,1,31,Sales Representative,1,0,1,0
+38,False,travel rarely,1153,Research & Development,6,2,40,Laboratory Technician,5,4,0,4
+22,True,travel rarely,1294,Research & Development,8,1,79,Laboratory Technician,1,0,0,0
+51,False,travel rarely,942,Research & Development,3,3,53,Manager,2,2,2,2
+37,False,travel rarely,589,Sales,9,2,46,Sales Executive,5,2,0,3
+46,False,travel rarely,734,Research & Development,2,4,46,Research Director,2,1,2,2
+44,True,travel frequently,429,Research & Development,1,2,99,Research Scientist,5,3,2,3
+28,False,travel rarely,1181,Research & Development,1,3,82,Research Scientist,5,3,0,3
+39,False,travel rarely,1253,Research & Development,10,1,65,Research Director,4,3,2,2
+46,False,non-travel,849,Sales,26,2,98,Sales Executive,2,2,2,2
+40,False,travel rarely,616,Research & Development,2,2,99,Laboratory Technician,4,3,0,2
+42,False,travel rarely,1128,Research & Development,13,3,95,Healthcare Representative,0,0,0,0
+35,False,non-travel,1180,Research & Development,2,2,90,Manufacturing Director,7,7,1,7
+34,True,travel frequently,234,Research & Development,9,4,93,Laboratory Technician,7,1,0,7
+39,False,travel frequently,766,Sales,20,3,83,Sales Executive,2,1,2,2
+43,False,non-travel,343,Research & Development,9,3,52,Research Scientist,3,2,1,2
+41,False,travel rarely,447,Research & Development,5,3,85,Healthcare Representative,3,2,1,2
+30,False,travel rarely,1092,Research & Development,10,3,64,Manufacturing Director,7,7,0,2
+26,True,travel rarely,920,Human Resources,20,2,69,Human Resources,5,1,1,4
+40,False,travel rarely,1194,Research & Development,1,3,52,Healthcare Representative,5,3,0,3
+35,False,travel rarely,185,Research & Development,23,4,91,Laboratory Technician,5,4,0,3
+40,False,travel rarely,750,Research & Development,12,3,47,Healthcare Representative,7,4,7,7
+54,False,travel rarely,431,Research & Development,7,4,68,Research Scientist,7,1,1,7
+31,False,travel frequently,1125,Sales,7,4,68,Sales Executive,3,2,2,2
+28,False,travel rarely,1217,Research & Development,1,3,67,Research Scientist,3,2,1,2
+38,False,travel rarely,723,Sales,2,4,77,Sales Representative,4,2,0,3
+26,False,travel rarely,572,Sales,10,3,46,Sales Executive,5,3,1,2
+58,False,travel frequently,1216,Research & Development,15,4,87,Research Director,2,2,2,2
+18,False,non-travel,1431,Research & Development,14,3,33,Research Scientist,0,0,0,0
+31,True,travel rarely,359,Human Resources,18,5,89,Human Resources,1,0,0,0
+29,True,travel rarely,350,Human Resources,13,3,56,Human Resources,2,2,2,0
+45,False,non-travel,589,Sales,2,4,67,Sales Executive,8,7,5,7
+36,False,travel rarely,430,Research & Development,2,4,73,Research Scientist,1,0,0,0
+43,False,travel frequently,1422,Sales,2,4,92,Sales Executive,7,7,7,7
+27,False,travel frequently,1297,Research & Development,5,2,53,Laboratory Technician,5,4,0,2
+32,False,travel frequently,1318,Sales,10,4,79,Sales Executive,0,0,0,0
+42,False,non-travel,355,Research & Development,10,4,38,Research Scientist,6,3,3,3
+47,False,travel rarely,207,Research & Development,9,4,64,Laboratory Technician,2,2,2,0
+28,False,non-travel,280,Human Resources,1,2,43,Human Resources,3,2,2,2
+29,False,travel rarely,726,Research & Development,29,1,93,Healthcare Representative,7,0,1,6
+42,False,travel rarely,1142,Research & Development,8,3,81,Laboratory Technician,0,0,0,0
+32,True,travel rarely,414,Sales,2,4,82,Sales Executive,2,2,2,2
+29,False,travel rarely,352,Human Resources,6,1,87,Human Resources,1,0,0,0
+29,True,travel frequently,459,Research & Development,24,2,73,Research Scientist,1,0,1,0
+46,True,travel rarely,1254,Sales,10,3,64,Sales Executive,8,7,0,7
+27,False,travel frequently,1131,Research & Development,15,3,77,Research Scientist,7,6,7,3
+39,False,travel rarely,835,Research & Development,19,4,41,Research Scientist,2,2,2,2
+55,False,travel rarely,836,Research & Development,2,4,98,Research Scientist,5,2,0,4
+28,False,travel rarely,1172,Sales,3,3,78,Sales Representative,1,0,0,0
+30,True,travel rarely,945,Sales,9,3,89,Sales Representative,1,0,0,0
+22,True,travel rarely,391,Research & Development,7,1,75,Research Scientist,1,0,0,0
+34,False,travel rarely,1480,Sales,4,3,64,Sales Executive,5,3,1,0
+29,False,travel rarely,592,Research & Development,7,3,59,Laboratory Technician,3,2,1,2
+37,False,travel rarely,783,Research & Development,7,4,78,Research Scientist,5,3,0,4
+35,False,travel rarely,219,Research & Development,16,2,44,Manufacturing Director,3,2,0,2
+26,False,travel rarely,482,Research & Development,1,2,90,Research Scientist,1,0,1,0
+27,False,travel rarely,511,Sales,2,2,89,Sales Executive,8,7,0,7
+44,False,travel rarely,170,Research & Development,1,4,78,Healthcare Representative,2,0,2,2
+34,True,non-travel,967,Research & Development,16,4,85,Research Scientist,5,2,3,0
+56,True,travel rarely,1162,Research & Development,24,2,97,Laboratory Technician,4,2,1,0
+36,False,travel rarely,335,Sales,17,2,33,Sales Executive,4,2,1,3
+41,False,travel rarely,337,Sales,8,3,54,Sales Executive,5,4,1,4
+31,False,travel rarely,1079,Sales,10,2,86,Sales Executive,5,2,1,4
+34,False,travel rarely,735,Sales,3,1,75,Sales Executive,4,2,0,1
+31,False,travel rarely,471,Research & Development,4,3,62,Laboratory Technician,2,2,2,2
+26,False,travel frequently,1096,Research & Development,6,3,61,Laboratory Technician,7,7,7,7
+45,False,travel frequently,1297,Research & Development,1,4,44,Healthcare Representative,4,2,0,3
+28,False,travel frequently,783,Sales,1,2,42,Sales Executive,7,7,0,7
+29,True,travel frequently,746,Sales,24,3,45,Sales Representative,1,0,0,0
+39,False,non-travel,1251,Sales,21,4,32,Sales Executive,3,2,1,2
+27,False,travel rarely,1354,Research & Development,2,4,41,Research Scientist,5,3,1,2
+28,True,travel rarely,1475,Sales,13,2,84,Sales Executive,2,0,2,2
+47,False,non-travel,1169,Research & Development,14,4,64,Research Scientist,8,7,1,7
+56,False,travel rarely,1443,Sales,11,5,89,Sales Executive,0,0,0,0
+58,False,travel rarely,605,Sales,21,3,72,Manager,1,0,0,0
+32,True,travel frequently,238,Research & Development,5,2,47,Research Scientist,4,1,0,3
+38,False,travel rarely,1206,Research & Development,9,2,71,Research Scientist,5,2,0,3
+49,False,travel frequently,1064,Research & Development,2,1,42,Research Director,5,4,4,3
+42,False,travel rarely,419,Sales,12,4,77,Sales Executive,0,0,0,0
+27,True,travel frequently,1337,Human Resources,22,3,58,Human Resources,1,0,0,0
+35,False,travel rarely,682,Sales,18,4,71,Sales Executive,5,3,0,4
+28,False,non-travel,1103,Research & Development,16,3,49,Research Scientist,5,3,1,4
+31,False,non-travel,976,Research & Development,3,2,48,Research Scientist,4,2,2,3
+36,False,non-travel,1351,Research & Development,9,4,66,Laboratory Technician,5,4,0,2
+34,False,travel rarely,1239,Sales,13,4,39,Sales Executive,8,7,1,1
+26,False,travel rarely,157,Research & Development,1,3,95,Laboratory Technician,7,7,7,6
+29,False,travel rarely,136,Research & Development,1,3,89,Healthcare Representative,5,3,0,2
+32,False,non-travel,1146,Research & Development,15,4,34,Healthcare Representative,5,1,1,2
+28,True,travel rarely,1404,Research & Development,17,3,32,Laboratory Technician,4,1,0,3
+38,False,travel rarely,1404,Sales,1,3,59,Sales Representative,1,0,0,0
+27,False,travel rarely,954,Sales,9,3,44,Sales Executive,7,7,0,7
+32,False,travel rarely,1373,Research & Development,5,4,56,Manufacturing Director,1,0,0,0
+53,True,travel rarely,1168,Sales,24,4,66,Sales Executive,2,2,2,2
+54,False,travel rarely,155,Research & Development,9,2,67,Research Scientist,4,3,2,3
+38,False,travel frequently,1444,Human Resources,1,4,88,Human Resources,6,2,1,2
+31,False,travel rarely,1276,Research & Development,2,1,59,Laboratory Technician,1,0,0,0
+54,False,travel rarely,157,Research & Development,10,3,77,Manufacturing Director,5,2,1,4
+24,False,travel rarely,771,Research & Development,1,2,45,Healthcare Representative,4,3,1,2
+23,False,travel rarely,571,Research & Development,12,2,78,Laboratory Technician,5,2,1,4
+25,False,travel rarely,309,Human Resources,2,3,82,Human Resources,2,0,1,2
+25,False,travel rarely,977,Research & Development,2,1,57,Laboratory Technician,2,2,0,2
+33,False,non-travel,1313,Research & Development,1,2,59,Laboratory Technician,1,1,0,0
+31,False,travel rarely,1154,Sales,2,2,54,Sales Representative,2,2,1,2
+38,False,travel frequently,508,Research & Development,6,4,72,Manufacturing Director,8,3,7,7
+42,False,travel rarely,557,Research & Development,18,4,35,Research Scientist,4,3,1,2
+41,False,travel rarely,642,Research & Development,1,3,76,Research Scientist,5,3,1,0
+35,False,travel rarely,1490,Research & Development,11,4,43,Laboratory Technician,2,2,2,2
+22,False,travel rarely,581,Research & Development,1,2,63,Research Scientist,3,2,1,2
+32,False,travel rarely,267,Research & Development,29,4,49,Laboratory Technician,6,2,4,1
+40,False,travel rarely,543,Research & Development,1,4,83,Laboratory Technician,1,0,0,0
+32,False,travel rarely,234,Sales,1,4,68,Sales Representative,2,2,2,2
+39,False,travel rarely,116,Research & Development,24,1,52,Research Scientist,7,7,1,7
+25,False,travel rarely,1382,Sales,8,2,85,Sales Executive,5,3,0,4
+44,False,travel rarely,1037,Research & Development,1,3,42,Research Scientist,4,3,1,2
+21,False,travel rarely,501,Sales,5,1,58,Sales Representative,2,2,1,2
+39,False,non-travel,105,Research & Development,9,3,87,Manager,6,0,1,3
+23,True,travel frequently,638,Sales,9,3,33,Sales Representative,1,0,1,0
+36,False,travel frequently,688,Research & Development,4,2,97,Manufacturing Director,4,2,0,2
+29,True,travel rarely,1092,Research & Development,1,4,36,Research Scientist,2,2,2,2
+34,False,travel rarely,704,Sales,28,3,95,Sales Executive,8,7,1,7
+41,False,travel rarely,930,Sales,3,3,57,Sales Executive,5,4,0,4
+32,False,travel rarely,529,Research & Development,2,3,78,Research Scientist,4,2,1,2
+50,True,travel frequently,878,Sales,1,4,94,Sales Executive,6,3,0,1
+36,False,travel rarely,1120,Sales,11,4,100,Sales Executive,6,3,0,0
+45,False,travel rarely,374,Sales,20,3,50,Sales Executive,5,3,0,1
+40,False,travel rarely,1322,Research & Development,2,4,52,Research Scientist,2,2,2,2
+40,False,travel rarely,1194,Research & Development,2,4,98,Research Scientist,5,3,0,2
+35,False,travel rarely,287,Research & Development,1,4,62,Research Scientist,4,3,1,1
+29,False,travel rarely,1378,Research & Development,13,2,46,Laboratory Technician,4,3,0,3
+29,False,travel rarely,468,Research & Development,28,4,73,Research Scientist,5,4,0,4
+50,True,travel rarely,410,Sales,28,3,39,Sales Executive,3,2,2,0
+26,False,travel rarely,1167,Sales,5,3,30,Sales Representative,4,2,0,0
+36,False,travel frequently,884,Research & Development,23,2,41,Laboratory Technician,5,2,0,3
+39,False,travel rarely,613,Research & Development,6,1,42,Healthcare Representative,7,7,1,7
+27,False,travel rarely,155,Research & Development,4,3,87,Manufacturing Director,6,2,0,3
+34,False,travel rarely,628,Research & Development,8,3,82,Laboratory Technician,4,3,1,2
