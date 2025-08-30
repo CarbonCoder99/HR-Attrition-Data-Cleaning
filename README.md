@@ -14,10 +14,12 @@ The data cleaning and preprocessing workflow is detailed step-by-step in the `No
 * Handling missing values and ensuring consistent data types.
 
 ## Repository Contents
-* `data/`: Contains the original raw dataset and the final cleaned dataset.
+* `RawData/`: Contains the original raw dataset .
+* `ProcessedData/`: Contains the cleaned dataset .
 * `notebook/`: Contains the Jupyter Notebook that details the data cleaning process.
 
 ## How to Use
 1.  Clone this repository to your local machine.
 2.  Navigate to the `notebook/` directory and open `Notebook.ipynb` to view the full data cleaning process.
+
 3.  The `data/processed/` directory contains the final cleaned dataset, `HR-Employee-Attrition-Cleaned.csv`, ready for use in any data analysis or visualization project.
